@@ -1,0 +1,1 @@
+# hosteefy-module-registrar
